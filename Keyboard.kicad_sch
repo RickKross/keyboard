@@ -14373,7 +14373,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_C_Receptacle_USB2.0_14P"
+		(property "Value" "USB_C"
 			(at 201.93 189.23 0)
 			(effects
 				(font

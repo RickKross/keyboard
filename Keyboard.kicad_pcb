@@ -11437,7 +11437,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad"
 		(layer "F.Cu")
 		(uuid "76ae8ac7-aa9c-472b-8ef4-d0fa32e62160")
-		(at 163.115625 94.059375)
+		(at 179.784375 94.059375)
 		(descr "Mounting Hole 3.2mm, M3, ISO7380")
 		(tags "mounting hole 3.2mm m3 iso7380")
 		(property "Reference" "H1"
